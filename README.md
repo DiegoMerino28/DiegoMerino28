@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiegoMerino28
-- 👀 I’m interested in Data Analysis, Machine Learning, Python, SQL and most of all, Aviation <3.
+- 👀 I’m interested in Data Analysis, Machine Learning, Python, SQL and most of all, Aviation.
 - 🌱 I’m currently learning Machine Learning Algorithms in order to predict lateness in flights across the USA.
 - 💞️ I’m looking to collaborate on anything that can bring value to our world, specially projects related to COVID, Humanitarian Relief etc.
 - 📫 How to reach me: 
